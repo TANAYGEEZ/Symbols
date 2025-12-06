@@ -1,3 +1,3 @@
-age
+Symbols
 
-timer
+Chart
